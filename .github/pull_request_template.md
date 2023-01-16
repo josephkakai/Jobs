@@ -1,29 +1,21 @@
-## Who I am:
+I am Joseph Kakai:
+First name: Joseph
+Last name: Kakai
+Email: josephngalu96@gmail.com
+LinkedIn profile: linkedin.com/in/joseph-kakai-041a96140/
+I am interested about the position(s)
+Intern Developer assistant
 
-- First name: <!-- Insert your first name here -->
-- Last name: <!-- Insert your last name here -->
-- Email: <!-- Insert your email here -->
-- LinkedIn profile: <!-- Insert your LinkedIn profile URL here -->
+My motivations
+I like solving world problems through use of code and I would like to gain more experience in code related areas.
 
-## I am interested about the position(s)
+And I would like to add...
+I am an enthusiastic software engineer who is ready for new challenges to solve world problems. i have knowledge and skills in Python, C, Bash and git I have looked at the intern job description and I am interested to be part of your team.
 
-<!-- Insert the postion or the list of positions you are interested in here -->
-
-## My motivations
-
-<!-- Describe your motivation to join the team and for the position(s) -->
-
-## And I would like to add...
-
-<!-- Add any other information that can describe you here -->
-
-## Final checklist
-
-<!-- Make sure to check all these items -->
-
-- [ ] I add my resume (Markdown or PDF version) in the folder `applications`
-- [ ] I'm serious about my application
-- [ ] I'm ready to join the team and tacle incredible challenges
-- [ ] I'm matching the majority of the job requirements
-- [ ] I understand all positions are remote
-- [ ] All information provided about myself are true
+Final checklist
+[✓ ] I add my resume (Markdown or PDF version) in the folder applications
+[✓ ] I'm serious about my application
+[✓ ] I'm ready to join the team and tackle incredible challenges
+[ ✓] I'm matching the majority of the job requirements
+[ ✓] I understand all positions are remote
+[✓ ] All information provided about myself are true
